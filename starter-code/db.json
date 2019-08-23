@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Mike",
+      "occupation": "TA",
+      "weapon": "drumsticks",
+      "cartoon": false,
+      "id": 4
+    },
+    {
+      "name": "crispino!!!",
+      "occupation": "TA",
+      "weapon": "pubsub",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "new guy",
+      "occupation": "adfa",
+      "weapon": "afsad",
+      "cartoon": true,
+      "id": 6
+    },
+    {
+      "name": "superman",
+      "occupation": "journalist",
+      "weapon": "cape",
+      "cartoon": true,
+      "id": 7
+    },
+    {
+      "name": "spiderman",
+      "occupation": "photographer",
+      "weapon": "spidey sense",
+      "cartoon": true,
+      "id": 8
+    }
+  ]
+}
